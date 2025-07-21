@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm G Prashant (GP).</h1>
-<p align="center">Engineering Intelligence through LLMs, One Layer at a Time</p>
+<p align="center">Engineering Intelligence through Implementation, One Layer at a Time</p>
 
 ---
-
-As an avid learner, I am solely focused on mastering Large Language Models (LLMs) by building, orchestrating, and optimizing performant LLM applications.
-
 💡 Always believe in *learning by building*. Every major concept I study turns into a project. Boring concepts don’t stick; structured experimentation keeps me sharp.
 
 📌 “If you can't implement it, you don't understand it.”  
